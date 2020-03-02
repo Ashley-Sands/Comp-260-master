@@ -1,0 +1,15 @@
+[submodule "Comp-260-TB-RPG-Server"]
+	path = Comp-260-TB-RPG-Server
+	url = https://github.com/Ashley-Sands/Comp-260-TB-RPG-Server.git
+[submodule "Comp-260-TB-RPG-Game"]
+	path = Comp-260-TB-RPG-Game
+	url = https://github.com/Ashley-Sands/Comp-260-TB-RPG-Game
+[submodule "Comp-260-MUD-Server"]
+	path = Comp-260-MUD-Server
+	url = https://github.com/Ashley-Sands/Comp-260-MUD-Server.git
+[submodule "comp260-worksheet-1"]
+	path = comp260-worksheet-1
+	url = https://github.com/Ashley-Sands/comp260-worksheet-1.git
+[submodule "Comp-260"]
+	path = Comp-260
+	url = https://github.com/Ashley-Sands/Comp-260.git
