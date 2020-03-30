@@ -17,11 +17,11 @@
 ### == Workshhets ==
 #### WS One
 - [ wip ] Create client for a chat serverce  
-- - [x] Chat
--- - [x] Publicly
--- - [x] Privately
-- - [x] Rename clients
-- - [x] handle errors
+- - [x] Chat  
+- - - [x] Publicly  
+- - - [x] Privately  
+- - [x] Rename clients  
+- - [x] handle errors  
 - - [ ] accept start args
 
 #### WS Two
@@ -63,6 +63,39 @@ Do both on doocker
 - [x] Fix Displaying player id being displayed rather than nickname
 - [ ] MySQL
 - [ ] ~~fix incorrect player moving~~  
--- -[ ] I think it would be good if this was some sort of delagate system  
+-- - [ ] I think it would be good if this was some sort of delagate system  
 - Hmmm this may have been fixed, mabe i put on a old build last night  
+
+### == 17/3/2020
+
+- [ ] Write MYSQL backend
+- [ ] write common interface
+- [ ] Write Lobby 
+- [ ] Write Game
+
+## notes
+- [x] add reg_key to client_identity in c# lib
+- - [ ] Add client_registered to c# lib
+- - - [x] also needs adding to message in py.
+
+- [ ] in message the from client key is now socket.
+- [c] add method to get from name to socket client
+
+Need to send connect to lobby request and change server
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

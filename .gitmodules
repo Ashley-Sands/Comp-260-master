@@ -13,3 +13,9 @@
 [submodule "Comp-260"]
 	path = Comp-260
 	url = https://github.com/Ashley-Sands/Comp-260.git
+[submodule "comp260-testServer"]
+	path = comp260-testServer
+	url = git@github.com:Ashley-Sands/comp260-testServer.git
+[submodule "Comp-260-RPG-2"]
+	path = Comp-260-RPG-2
+	url = git@github.com:Ashley-Sands/-Comp-260-TB-RPG-Game-Take2.git
